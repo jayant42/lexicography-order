@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1449406141 source:c:\users\jayant kumar\documents\cplus\alphabetlexicographical\lexcosorting.cpp
+	"LexcoSorting.h"
+
+1449373926 c:\boost_1_59_0\boost\graph\adjacency_list.hpp
+	<boost/config.hpp>
+	<vector>
+	<list>
+	<set>
+	<boost/unordered_set.hpp>
+	<slist>
+	<boost/scoped_ptr.hpp>
+	<boost/graph/graph_traits.hpp>
+	<boost/graph/graph_mutability_traits.hpp>
+	<boost/graph/graph_selectors.hpp>
+	<boost/property_map/property_map.hpp>
+	<boost/mpl/if.hpp>
+	<boost/mpl/and.hpp>
+	<boost/mpl/not.hpp>
+	<boost/mpl/bool.hpp>
+	<boost/graph/detail/edge.hpp>
+	<boost/type_traits/is_same.hpp>
+	<boost/detail/workaround.hpp>
+	<boost/graph/properties.hpp>
+	<boost/graph/named_graph.hpp>
+	<boost/graph/detail/adjacency_list.hpp>
+
+1449373927 c:\boost_1_59_0\boost\graph\topological_sort.hpp
+	<boost/config.hpp>
+	<boost/property_map/property_map.hpp>
+	<boost/graph/depth_first_search.hpp>
+	<boost/graph/visitors.hpp>
+	<boost/graph/exception.hpp>
+	<boost/throw_exception.hpp>
+
+1449650419 source:c:\users\jayant kumar\documents\cplus\alphabetlexicographical\main.cpp
+	<iostream>
+	"LexcoSorting.h"
+	<exception>
+
+1449403917 c:\users\jayant kumar\documents\cplus\alphabetlexicographical\lexcosorting.h
+	"boost/graph/adjacency_list.hpp"
+	"boost/graph/labeled_graph.hpp"
+	"boost/graph/topological_sort.hpp"
+	<deque>
+	<iterator>
+	<iostream>
+	<fstream>
+	<string>
+
